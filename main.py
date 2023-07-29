@@ -5,7 +5,7 @@ from discord.ext.commands import Bot
 import time
 import calcFuncs as cf
 
-TOKEN = "MTEzMTY0NjYyODU5MjM1MzI5Mg.GUoxee.z1RkwdvPyTLINSwobGh-OglsacIHdRh617S0g0"
+TOKEN = "MTEzMTY0NjYyODU5MjM1MzI5Mg.GJF-zI.37q6Dt6tV4ROWoopBgnEOGjdpERpNrc_pYXNG0"
 
 bot = Bot(command_prefix=".",intents=discord.Intents.all())
 
